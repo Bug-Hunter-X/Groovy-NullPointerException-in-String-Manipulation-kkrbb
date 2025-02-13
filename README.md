@@ -1,0 +1,1 @@
+This repository demonstrates a common Groovy error: a NullPointerException occurring when handling potentially null strings. The original code lacks proper null handling, leading to the exception. The solution shows how to use safe navigation and elvis operator to prevent this issue.
